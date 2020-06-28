@@ -9,11 +9,12 @@
 ## Lineamientos
 
 1. Se crearán los `issues` con los requerimientos y su correspondiente asignación.
-2. Se deberá crear una sección con la documentación de cada nueva función añadida.
-3. Toda nueva función incluirá sus `Test Unitarios`.
-4. Los commits deben ser en el formato explicado en el proyecto anterior.
-5. No se aceptarán `pull-request` cuyos test no sean exitosos; además de cumplir con lo requerido en el `issue`.
-6. El plazo de entrega de cada `issue` será de una semana; luego de ese tiempo se eliminará o se asignará a otra persona.
+2. Se usará la Guía de estilo [PEP8](https://www.python.org/dev/peps/pep-0008/)
+3. Se deberá crear una sección con la documentación de cada nueva función añadida.
+4. Toda nueva función incluirá sus `Test Unitarios`.
+5. Los commits deben ser en el formato explicado en el proyecto anterior.
+6. No se aceptarán `pull-request` cuyos test no sean exitosos; además de cumplir con lo requerido en el `issue`.
+7. El plazo de entrega de cada `issue` será de una semana; luego de ese tiempo se eliminará o se asignará a otra persona.
 
 #### [Volver al inicio](#inicio)
 
