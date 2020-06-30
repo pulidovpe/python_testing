@@ -20,3 +20,6 @@
 
 <a name="#inicio-doc"></a>
 ## Inicio de la Documentación de las funciones añadidas
+
+- [Github Actions](docs/github-actions.md)
+
