@@ -23,3 +23,9 @@
 
 - [Github Actions](docs/github-actions.md)
 
+-----
+
+## Documentación sobre funciones sumar y restar
+
+- [sumar()](docs/sumar.md)
+- [restar()](docs/restar.md)
