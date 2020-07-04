@@ -23,3 +23,8 @@
 
 - [Github Actions](docs/github-actions.md)
 
+-----
+
+## Documentación sobre función <code>restar()</code>
+
+- [restar()](docs/restar.md)
