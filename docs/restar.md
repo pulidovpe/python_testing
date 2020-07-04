@@ -7,7 +7,9 @@ def restar(numero1 = 0.0, numero2 = 0.0):
 ~~~
 donde <code>numero1</code> y <code>numero2</code> son de tipo flotante.
 
-La función <code>restar()</code> pertenece a la clase <code>Calculadora</code>
+**Nota:** En caso de usar un parámetro con una variable o un valor de tipo distinto a uno numérico, éste devolverá cero (0).
+
+La función <code>restar()</code> pertenece a la clase <code>Calculadora</code>.
 
 ## Ejemplo de uso:
 
