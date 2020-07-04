@@ -15,9 +15,3 @@ La función <code>restar()</code> pertenece a la clase <code>Calculadora</code>
 resultado = restar(6.8, 2.6)
 print('El resultado de la resta es: ', resultado)   # El resultado de la resta es: 4.2
 ~~~
-
------
-
-## Vea también:
-
-[sumar()](sumar.md)
