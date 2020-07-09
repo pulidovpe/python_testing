@@ -1,11 +1,9 @@
-class Calculadora:
+class Suma:
 
-    def __init__(self):
-        self.numero1, self.numero2 = 0.0, 0.0
+    total = 0
     
-    def restar(self, numero1=0.0, numero2=0.0):
-        if not isinstance(numero1, (int, float, complex, bool)):
-            numero1 = 0.0
-        if not isinstance(numero2, (int, float, complex, bool)):
-            numero2 = 0.0
-        return numero1 - numero2
+    def valor(self):
+        return self.total
+
+    def suma(self, uno, dos):
+        self.total = int(uno)+int(dos)
