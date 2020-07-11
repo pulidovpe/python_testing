@@ -28,3 +28,7 @@
 ## Documentación sobre función <code>restar()</code>
 
 - [restar()](docs/restar.md)
+
+## Documentación Función Sumar
+
+- [Suma()](docs/sumar.md)

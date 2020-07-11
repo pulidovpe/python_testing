@@ -9,3 +9,14 @@ class Calculadora:
         if not isinstance(numero2, (int, float, complex, bool)):
             numero2 = 0.0
         return numero1 - numero2
+
+
+class Suma:
+
+    total = 0
+    
+    def valor(self):
+        return self.total
+
+    def suma(self, uno, dos):
+        self.total = int(uno)+int(dos)
